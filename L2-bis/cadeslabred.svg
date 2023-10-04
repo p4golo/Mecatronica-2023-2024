@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   width="210mm"
+   height="297mm"
+   viewBox="0 0 210 297"
+   version="1.1"
+   id="svg1"
+   inkscape:version="1.3 (0e150ed, 2023-07-21)"
+   sodipodi:docname="cadeslabred.svg"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <sodipodi:namedview
+     id="namedview1"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="1.4538721"
+     inkscape:cx="396.87124"
+     inkscape:cy="288.88374"
+     inkscape:window-width="1866"
+     inkscape:window-height="1016"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="layer1" />
+  <defs
+     id="defs1">
+    <linearGradient
+       id="linearGradient4"
+       inkscape:swatch="gradient">
+      <stop
+         style="stop-color:#000000;stop-opacity:1;"
+         offset="0"
+         id="stop4" />
+      <stop
+         style="stop-color:#000000;stop-opacity:0;"
+         offset="1"
+         id="stop5" />
+    </linearGradient>
+  </defs>
+  <g
+     inkscape:label="Capa 1"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="fill:none;stroke-width:0.79375;stroke:#000000;stroke-dasharray:none"
+       id="rect5"
+       width="42.270348"
+       height="9.7490091"
+       x="18.604229"
+       y="73.500648"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#808000;stroke-width:0.79375;stroke-dasharray:none"
+       id="rect6"
+       width="42.270348"
+       height="9.7490091"
+       x="-46.617619"
+       y="82.003853"
+       transform="rotate(-61.148797)"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#ffff00;stroke-width:0.79375;stroke-dasharray:none"
+       id="rect7"
+       width="42.270348"
+       height="9.7490091"
+       x="78.932045"
+       y="21.143"
+       transform="rotate(17.78185)"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#ff0000;stroke-width:0.79375;stroke-dasharray:none"
+       id="rect8"
+       width="42.270348"
+       height="9.7490091"
+       x="23.113258"
+       y="-120.29386"
+       transform="rotate(107.05302)"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#008000;stroke-width:0.79375;stroke-dasharray:none"
+       id="rect9"
+       width="42.270348"
+       height="9.7490091"
+       x="108.58502"
+       y="59.683586"
+       transform="rotate(15.128957)"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#00ffff;stroke-width:0.79375;stroke-dasharray:none"
+       id="rect10"
+       width="42.270348"
+       height="9.7490091"
+       x="-91.144829"
+       y="129.07011"
+       transform="rotate(-83.712831)"
+       inkscape:transform-center-x="-0.18051209"
+       inkscape:transform-center-y="-2.3062763"
+       ry="4.8745046" />
+    <rect
+       style="fill:none;stroke:#0000ff;stroke-width:0.79375;stroke-dasharray:none;stroke-opacity:1"
+       id="rect11"
+       width="42.270348"
+       height="9.7490091"
+       x="78.839287"
+       y="112.5538"
+       transform="rotate(-26.484346)"
+       inkscape:transform-center-x="-2.0369095"
+       inkscape:transform-center-y="-1.0965762"
+       ry="4.8745046" />
+  </g>
+</svg>
